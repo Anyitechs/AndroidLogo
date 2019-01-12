@@ -1,0 +1,3 @@
+http:delivery.inserthtml.com:80:.:^userContextId=5	0	17907	http:delivery.inserthtml.com:80:delivery.inserthtml.com:443::n:1547206108:h2:y:1546945867:n:^userContextId=5:
+http:delivery.inserthtml.com:80:.:	0	17907	http:delivery.inserthtml.com:80:delivery.inserthtml.com:443::n:1547218706:h2:y:1546945867:n::
+http:learn.shayhowe.com:80:.:	0	17907	http:learn.shayhowe.com:80:learn.shayhowe.com:443::n:1547219641:h2:y:1546945867:n::

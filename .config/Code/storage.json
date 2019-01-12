@@ -1,0 +1,27 @@
+{
+    "telemetry.machineId": "8945a9d502eacaddb3b18b5463f1eced65f886decff1aa05a2ded2d03ce551bd",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "backupPath": "/home/ifeanyi/.config/Code/Backups/1547206894423",
+            "uiState": {
+                "mode": 1,
+                "x": 213,
+                "y": 27,
+                "width": 1024,
+                "height": 741
+            }
+        }
+    },
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///home/ifeanyi/odin_on_rails/my_first_rails_app"
+        ],
+        "files2": [
+            "file:///home/ifeanyi/Desktop/AndroidLogo%20Project/Html/Androidlogo.html"
+        ]
+    },
+    "pickerWorkingDir": "/home/ifeanyi/Desktop/AndroidLogo Project/Html"
+}

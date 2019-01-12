@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+	
+<html dir="ltr" lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Lists | HTML Dog</title>
+
+<!--[if !(lt IE 9)]><!-->
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+	<link href="/rAF/arcticFox.css" rel="stylesheet">
+
+
+
+	<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700|Source+Code+Pro:300,400,500" rel="stylesheet">
+
+<!--<![endif]-->
+
+	<!--[if lt IE 9]><script src="/rAF/html5shiv.js"></script><link href="/rAF/altBasic.css" rel="stylesheet"><![endif]--> 
+
+
+
+	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+	<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/manifest.json">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg">
+	<meta name="msapplication-TileColor" content="#2d89ef">
+	<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+	<meta name="theme-color" content="#0088ee">
+
+</head>
+
+
+
+
+
+<body>
+
+<header id="pageMeta">
+<div class="accessAid"><a href="/" title="Home"><img src="/rAF/htmldog.png" width="180" height="130" alt="HTML Dog"></a></div>
+	<div id="toNav"><a href="#nav">Skip to navigation</a></div>
+</header>
+
+<nav id="youAreHere">
+<p><strong class="accessAid">You are here: </strong><a href="/" id="yahHome">Home</a>&nbsp;&rarr; <a href="/guides/" class="yahSec yahTut">Tutorials</a>&nbsp;&rarr; <a href="/guides/html/">HTML</a>&nbsp;&rarr; <a href="/guides/html/beginner/">Beginner</a>&nbsp;&rarr;</p>
+</nav>
+
+<article>
+
+<header>
+
+
+	<h1>Lists</h1>
+
+
+	
+<aside class="foodH1"><div id="bsap_1305903" class="bsarocks bsap_42de178ce2c5601e0c8eebfd00a854ae"></div></aside>
+<aside class="foodH1">
+	<div id="bsap_1305780" class="bsarocks bsap_42de178ce2c5601e0c8eebfd00a854ae">
+		<div class="foodGoog"><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" data-ad-client="ca-pub-2105257479089713" data-ad-slot="4282714042" data-ad-format="auto"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+	</div>
+</aside>
+
+
+	<p>There are three types of list; <strong>unordered lists</strong>, <strong>ordered lists</strong> and definition lists. We will look at the first two here, and <a href="../../intermediate/definitionlists/">description lists</a> in the <a href="../../intermediate/">HTML Intermediate Tutorial</a>.</p>
+
+
+</header>
+
+<section>
+
+	
+
+<p>Unordered lists and ordered lists work the same way, except that the former is used for non-sequential lists with list items usually preceded by bullets and the latter is for sequential lists, which are normally represented by incremental numbers.</p>
+
+<p>The <a href="/references/html/tags/ul/" class="acode"><code>ul</code></a> tag is used to define unordered lists and the <a href="/references/html/tags/ol/" class="acode"><code>ol</code></a> tag is used to define ordered lists. Inside the lists, the <a href="/references/html/tags/li/" class="acode"><code>li</code></a> tag is used to define each list item.</p>
+
+<div id="bsap_1305815" class="bsarocks bsap_42de178ce2c5601e0c8eebfd00a854ae"></div>
+<aside id="foodC2">
+	<p class="bsa_it_ad">
+		<a href="/advertise/">
+
+			<strong class="bsa_it_t">Advertise Here!</strong>
+			<span class="bsa_it_d">On a long-established, well-read, well-respected web development resource.</span>
+		</a>
+	</p>
+</aside>
+
+<p>Change your code to the following:</p>
+
+<pre><code class="oldLang language-html">
+&lt;!DOCTYPE html&gt;
+
+&lt;html&gt;
+
+&lt;head&gt;
+    &lt;title&gt;My first web page&lt;/title&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+    &lt;h1&gt;My first web page&lt;/h1&gt;
+
+    &lt;h2&gt;What this is&lt;/h2&gt;
+    &lt;p&gt;A simple page put together using HTML&lt;/p&gt;
+
+    &lt;h2&gt;Why this is&lt;/h2&gt;
+<strong>    &lt;ul&gt;</strong>
+<strong>        &lt;li&gt;To learn HTML&lt;/li&gt;</strong>
+<strong>        &lt;li&gt;To show off&lt;/li&gt;</strong>
+<strong>        &lt;li&gt;Because I've fallen in love with my computer and want to give her some HTML loving.&lt;/li&gt;</strong>
+<strong>    &lt;/ul&gt;</strong>
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+</code></pre>
+
+<aside class="foodC"><div id="bsap_1305864" class="bsarocks bsap_42de178ce2c5601e0c8eebfd00a854ae"></div></aside>
+
+<p>If you look at this in your browser, you will see a bulleted list. Simply change the <a href="/references/html/tags/ul/" class="acode"><code>ul</code></a> tags to <a href="/references/html/tags/ol/" class="acode"><code>ol</code></a> and you will see that the list will become numbered.</p>
+
+<p>Lists can also be included in lists to form a structured hierarchy of items.</p>
+
+<p>Replace the above list code with the following:</p>
+
+<pre><code class="oldLang language-html">
+&lt;ul&gt;
+    &lt;li&gt;To learn HTML&lt;/li&gt;
+    &lt;li&gt;
+        To show off
+<strong>        &lt;ol&gt;</strong>
+<strong>            &lt;li&gt;To my boss&lt;/li&gt;</strong>
+<strong>            &lt;li&gt;To my friends&lt;/li&gt;</strong>
+<strong>            &lt;li&gt;To my cat&lt;/li&gt;</strong>
+<strong>            &lt;li&gt;To the little talking duck in my brain&lt;/li&gt;</strong>
+<strong>        &lt;/ol&gt;</strong>
+    &lt;/li&gt;
+    &lt;li&gt;Because I've fallen in love with my computer and want to give her some HTML loving.&lt;/li&gt;
+&lt;/ul&gt;
+</code></pre>
+
+<p>Et voilÃ . A list within a list. And you could put another list within that. And another within that. And so on and so forth.</p>
+
+</section>
+
+<footer id="related">
+
+	<h2>Related pages</h2>
+
+
+
+
+
+
+  <ul>
+  <li>Next Page: <a href="../links/">Links</a></li>
+  <li>Previous Page: <a href="../headings/">Headings</a></li>
+  <li><a href="../../intermediate/definitionlists/">Description Lists</a> (HTML Intermediate Tutorial)</li>
+  </ul>
+
+
+
+
+  <h3>Examples</h3>
+  <ul>
+  <li><a href="/examples/lists1/">Basic lists</a></li>
+  <li><a href="/examples/lists2/">Nested lists</a></li>
+  </ul>
+
+
+
+
+  <h3>References</h3>
+  <ul>
+  <li><a href="/references/html/tags/ul/">HTML Tag: <code>ul</code></a></li>
+  <li><a href="/references/html/tags/ol/">HTML Tag: <code>ol</code></a></li>
+  <li><a href="/references/html/tags/li/">HTML Tag: <code>li</code></a></li>
+  </ul>
+
+
+
+
+
+
+
+</footer>
+
+</article>
+
+
+
+<nav id="nav">
+	
+	<section id="theThreeNaviteers">
+	
+		<section id="navMain">
+			<h2>Main menu</h2>
+			<ul>
+				<li><a href="/guides/" id="navTut">Tutorials</a>
+					<ul>
+						<li><a href="/guides/html/">HTML</a></li>
+						<li><a href="/guides/css/">CSS</a></li>
+						<li><a href="/guides/javascript/">JavaScript</a></li>
+					</ul>
+				</li>
+				<li><a href="/techniques/" id="navTech">Techniques</a></li>
+				<li><a href="/examples/" id="navEg">Examples</a></li>
+				<li><a href="/references/" id="navRef">References</a>
+					<ul>
+            	        <li><a href="/references/html/">HTML</a>
+							<ul>
+								<li><a href="/references/html/tags/">Tags</a></li>
+								<li><a href="/references/html/globalattributes/">Attributes</a></li>
+								<li><a href="/references/html/characters/">Characters</a></li>
+							</ul>
+						</li>
+						<li><a href="/references/css/">CSS</a>
+							<ul>
+								<li><a href="/references/css/properties/">Properties</a></li>
+								<li><a href="/references/css/selectors/">Selectors</a></li>
+								<li><a href="/references/css/values/">Values</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</section>
+
+
+	
+		<section id="navSec">
+        <h2><span>Section menu: </span>HTML&nbsp;tutorials</h2>
+			<ul>
+				<li id="yahSubsec"><a href="../">Beginner</a>
+					<ul>
+						<li><a href="../gettingstarted/">Getting Started</a></li>
+						<li><a href="../tags/">Tags, Attributes, and Elements</a></li>
+						<li><a href="../titles/">Page Titles</a></li>
+						<li><a href="../paragraphs/">Paragraphs</a></li>
+						<li><a href="../headings/">Headings</a></li>
+						<li><a href="../lists/">Lists</a></li>
+						<li><a href="../links/">Links</a></li>
+						<li><a href="../images/">Images</a></li>
+						<li><a href="../tables/">Tables</a></li>
+						<li><a href="../forms/">Forms</a></li>
+						<li><a href="../conclusion/">Putting It All Together</a></li>
+					</ul>
+				</li>
+				
+				<li><a href="/guides/html/intermediate/">Intermediate</a></li>
+				
+				
+				<li><a href="/guides/html/advanced/">Advanced</a></li>
+				
+			</ul>
+		</section>
+	
+	
+	
+
+
+
+		<section id="navSupp">
+			<h2>Supplemental menu</h2>
+			<ul>
+				<li><a href="/about/">About Us</a></li>
+				<li><a href="/contact/">Contact Us</a></li>
+				<li><a href="/linkto/">Link to Us</a></li>
+				<li><a href="/advertise/">Advertise With Us</a></li>
+				<li><a href="/webhosting/">Web Hosting</a></li>
+				<li><a href="/sitemap/">Site Map</a></li>
+				<li><a href="/" id="navHome" title="Home">Home</a></li>		
+			</ul>
+		</section>
+	
+	</section>
+
+	<form action="/search/" id="search">
+		<label for="sInput">Search</label>
+		<input name="q" id="sInput">
+		<input type="submit" value="Go!" id="sGo">
+	</form>
+
+	<a href="#" id="toTop">&#8593; Top</a>
+
+</nav>
+
+<footer id="siteFooter">
+	
+<aside class="foodF"><div id="bsap_1305782" class="bsarocks bsap_42de178ce2c5601e0c8eebfd00a854ae"></div></aside>
+<aside id="foodF1" class="foodF"><div class="foodGoog"><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" data-ad-client="ca-pub-2105257479089713" data-ad-slot="4282714042" data-ad-format="horizontal"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></aside>
+
+	<p>&copy; 2003&#8211;2019. <a href="/terms/">Terms of use</a>. Hosted&nbsp;by&nbsp;<a href="http://www.siteground.com/index.htm?afcode=4960306b51b3ed1ddecbf83b3076ee11">SiteGround</a>.</p>
+</footer>
+
+<script src="/rAF/prism.js"></script>
+
+
+
+<script src="http://s3.buysellads.com/ac/bsa.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-49412703-1', 'htmldog.com');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+
+</html>G£`d`      \7hö\7i?ëhá       3    :http://www.htmldog.com/guides/html/beginner/lists/ necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 10 Jan 2019 15:47:02 GMT
+Content-Type: text/html
+Host-Header: 192fc2e7e50945beb8231a492d6a8024
+X-Proxy-Cache: MISS
+ original-response-headers Server: nginx
+Date: Thu, 10 Jan 2019 15:47:02 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Host-Header: 192fc2e7e50945beb8231a492d6a8024
+X-Proxy-Cache: MISS
+ uncompressed-len 0 net-response-time-onstart 515 net-response-time-onstop 531 predictor::resource-count 16 predictor::http://www.htmldog.com/rAF/arcticFox.css 1,1,1547135222,4096 predictor::https://fonts.googleapis.com/css?family=Lato:300,400,700|Source+Code+Pro:300,400,500 1,1,1547135222,4096 predictor::http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 1,1,1547135222,4096 predictor::http://www.htmldog.com/rAF/prism.js 1,1,1547135222,4096 predictor::http://s3.buysellads.com/ac/bsa.js 1,1,1547135222,4096 predictor::http://s3.buysellads.com/r/s_42de178ce2c5601e0c8eebfd00a854ae.js?v=1547132400000 1,1,1547135222,4096 predictor::http://www.google-analytics.com/analytics.js 1,1,1547135222,4096 predictor::http://www.google-analytics.com/collect?v=1&_v=j72&a=1621699211&t=pageview&_s=1&dl=http%3A%2F%2Fwww.htmldog.com%2Fguides%2Fhtml%2Fbeginner%2Flists%2F&ul=en-us&de=UTF-8&dt=Lists%20%7C%20HTML%20Dog&sd=24-bit&sr=1366x768&vp=1287x639&je=0&_u=AACAAAAB~&jid=&gjid=&cid=1216291348.1547134907&tid=UA-49412703-1&_gid=659408261.1547134907&z=483879615 1,1,1547135222,4096 predictor::http://s3.buysellads.com/ac/pro.js 1,1,1547135222,4096 predictor::https://adservice.google.com.ng/adsid/integrator.js?domain=www.htmldog.com 1,1,1547135222,4096 predictor::https://adservice.google.com/adsid/integrator.js?domain=www.htmldog.com 1,1,1547135222,4096 predictor::http://pagead2.googlesyndication.com/pagead/js/r20190107/r20180604/show_ads_impl.js 1,1,1547135222,4096 predictor::https://pagead2.googlesyndication.com/pub-config/r20160913/ca-pub-2105257479089713.js 1,1,1547135222,4096 predictor::http://srv.buysellads.com/ads/get/ids/CVADE53J;CVAD52Q7;CVAD55QE;CVADE23N;CVAD52JJ/?r=1547132400000 1,1,1547135222,4096 predictor::https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101 1,1,1547135222,4096 predictor::http://s3.buysellads.com/creatives/f1d35a7e20a267d05a6af8654be528a7-149-1530026492.png 1,1,1547135222,4096   (›

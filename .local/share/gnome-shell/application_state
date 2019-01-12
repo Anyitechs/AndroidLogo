@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="firefox.desktop" open-window-count="1" score="16432.75" last-seen="1547296590"/>
+    <application id="shotwell.desktop" open-window-count="0" score="2.25" last-seen="1546948762"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="17" last-seen="1547277725"/>
+    <application id="update-manager.desktop" open-window-count="0" score="0" last-seen="1546787254"/>
+    <application id="eog.desktop" open-window-count="0" score="14.5" last-seen="1547214198"/>
+    <application id="code.desktop" open-window-count="1" score="674.5" last-seen="1547296568"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="0" score="369.75" last-seen="1547206755"/>
+    <application id="gnome-initial-setup.desktop" open-window-count="0" score="9" last-seen="1546787426"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="8.25" last-seen="1546870634"/>
+  </context>
+</application-state>

@@ -1,0 +1,75 @@
+{
+  "Version": "18.04",
+  "OEM": {
+    "Vendor": "Hewlett-Packard",
+    "Product": "HP 250 G1 Notebook PC"
+  },
+  "BIOS": {
+    "Vendor": "Insyde",
+    "Version": "F.3A"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "2",
+    "Threads": "1",
+    "Cores": "2",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "58",
+    "Stepping": "9",
+    "Name": "Intel(R) Pentium(R) CPU 2020M @ 2.40GHz",
+    "Virtualization": "VT-x"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "0156"
+    }
+  ],
+  "RAM": 3.9,
+  "Partitions": [
+    479.2,
+    0.5
+  ],
+  "Screens": [
+    {
+      "Size": "344mmx194mm",
+      "Resolution": "1366x768",
+      "Frequency": "59.99"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "en_NG",
+  "Timezone": "Africa/Lagos",
+  "Install": {
+    "Media": "Ubuntu 18.04.1 LTS \"Bionic Beaver\" - Release amd64 (20180725)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_device",
+    "DownloadUpdates": true,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": true,
+    "Stages": {
+      "0": "language",
+      "1": "language",
+      "15": "console_setup",
+      "19": "wireless",
+      "167": "prepare",
+      "260": "partman",
+      "371": "start_install",
+      "404": "timezone",
+      "418": "usersetup",
+      "484": "user_done",
+      "1535": "done"
+    }
+  }
+}
