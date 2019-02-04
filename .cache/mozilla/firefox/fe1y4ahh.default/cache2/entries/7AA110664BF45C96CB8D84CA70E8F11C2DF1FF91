@@ -1,0 +1,375 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+
+<title>Adding an image to the body of a page with a text editor</title>
+<meta name="KeyWords" content="add, add, add pictures, add graphic, graphics, image, images, add, add pictures to page, center, center, responsive, responsive, tutorial, tutorial, tutorial">
+<meta name="Description" content="Add an image to a webpage. Basic HTML and css tutorial.">
+
+<meta name="viewport" content="width=device-width">
+
+<link rel="stylesheet" href="style-support.css" type="text/css">
+<link rel="stylesheet" href="media-queries.css" type="text/css">
+
+<script type="text/javascript" src="javascripts/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="javascripts/javascripts.js"></script>
+
+</head>
+
+<body>
+<div class="pagewrapper">
+
+<script type="text/javascript" src="javascripts/header-support.js"></script>
+
+<script type="text/javascript" src="javascripts/menu-support.js"></script>
+
+<!-- C-O -->
+<div id="contentbox" class="pageheight">
+
+<!-- C-L -->
+<div id="left-content"><div class="content-area">
+
+
+
+
+
+
+<h1 class="title2">Adding Images To Your Pages Using HTML</h1>
+
+<h2 class="subtitle">Webpage images tutorial and code</h2>
+
+<div class="page-splits"></div>
+
+
+You can use any plain text editor like Notepad or TextEdit on Mac to add images to the body of your webpages. If your template is <span class="red">mobile or responsive</span> do not exceed about 290 pixels in width for the image, or use the responsive code below.
+
+<br><br>
+
+<span class="list-title">See Also&hellip;<br></span>
+
+<ul class="SI-list">
+
+<li> <a href="S_pictures_change.htm">Replacing webpage pictures</a>
+
+</ul>
+
+<div class="page-splits"></div>
+
+<br>
+
+
+
+
+
+
+<span class="colortitle">Quick code to make an image responsive</span><br>
+
+Select, copy and paste the following css style code. Add it to your image to make it flex for desktop, smartphone and mobile devices. Remove any height and width code.
+
+<br><br>
+
+<span class="code">style="max-width: 100%; height: auto;"</span>
+
+<br><br>
+
+In your HTML page, add the above code as highlighted below:
+
+<br><br>
+
+<span class="code">
+&lt;img src="picts/sample-image.jpg" <span class="red">style="max-width: 100%; height: auto;"</span> alt="Description"&gt;&lt;br&gt;
+</span>
+
+<br><br><br>
+
+<span class="colortitle">Responsive image using a new class</span><br>
+
+This will create a new class you can use to make any image responsive. If your website or template has a global .css file like a "style.css", add the following code to your .css file. You can add it anywhere on it's own line, or add it to the bottom of the file.
+
+<br><br>
+
+<span class="code">.resp-image { max-width: 100%; height: auto; }</span>
+
+<br><br>
+
+In your HTML page, add the new class as highlighted below:
+
+<br><br>
+
+<span class="code">
+&lt;img src="picts/sample-image.jpg" <span class="red">class="resp-image"</span> alt="Image"&gt;&lt;br&gt;
+</span>
+
+<br><br>
+
+If your image already has one class, like a border class, add the new class name with one space like the following example:
+
+<br><br>
+
+<span class="code">
+&lt;img src="picts/sample-image.jpg" class="img-borders <span class="red">resp-image</span>" alt="Image"&gt;&lt;br&gt;
+</span>
+
+<br><br><br>
+
+<span class="colortitle">Basic HTML image code</span><br>
+
+Non-responsive, for images less than about 290 pixels wide (or for any sized non-responsive image). To add a .jpg graphic into the body of your webpage, select, copy and paste the following HTML code into your webpage:<br><br>
+
+<span class="code">
+&lt;img src="picts/sample-image.jpg" alt="Image Description"&gt;&lt;br&gt;
+</span>
+
+<br><br>
+
+Now create a .jpg graphic called "sample-image.jpg" and put it into your picts folder. Remember that hosting is case sensitive so don't use any capital letters on either the page code or the image file name. Make sure your page code and the graphic name match exactly.
+
+<br><br>
+
+<img src="picts/sample-image.jpg" alt="Image Description"><br> 
+
+Sample Image #1
+
+<br><br><br>
+
+To center the image on the page, add css centering tags as shown below:
+
+<br><br>
+
+<span class="code">
+<span class="red">&lt;div style="text-align: center;"&gt;</span><br>
+&lt;img src="picts/sample-image.jpg" alt="Image Description"&gt;&lt;br&gt;<br>
+<span class="red">&lt;/div&gt;</span><br>
+</span>
+
+<br><br>
+
+<div style="text-align: center;">
+<img src="picts/sample-image.jpg" alt="Image Description"><br>
+Sample Image #2
+</div>
+
+<br><br><br>
+
+<span class="colortitle">Adding an image with a link</span><br>
+Perhaps you want your graphic to link to another page as well, use this code:
+
+
+<br><br>
+
+<span class="code">
+<span class="red">&lt;a href="your-page-name.htm"&gt;</span>&lt;img src="picts/sample-image.jpg" alt="Image Description" style="border: 0px;"&gt;<span class="red">&lt;/a&gt;</span>&lt;br&gt;
+</span>
+
+<br><br>
+
+<a href="index.html"><img src="picts/sample-image.jpg" alt="Image Description" style="border: 0px;"></a><br>
+Sample Image #3
+
+<br><br><br>
+
+
+
+Or you can make the graphic link to another website. The link below goes to ebay.com for example:
+
+<br><br>
+
+<span class="code">
+&lt;a href="<span class="red">http://ebay.com</span>"&gt;&lt;img src="picts/sample-image.jpg" alt="Image Description" style="border: 0px;"&gt;&lt;/a&gt;&lt;br&gt;
+</span>
+
+<br><br>
+
+
+<a href="http://ebay.com"><img src="picts/sample-image.jpg" alt="Image Description" style="border: 0px;"></a><br>
+Sample Image #4
+
+<br><br>
+
+<div id="responsive-image"></div>
+
+<br>
+
+<div class="page-splits color-split"></div>
+
+<br>
+
+<span class="colortitle">Basic responsive image</span><br>
+Use the following code for a basic responsive image. This is the simplest code for an image that will flex to fit the space and not exceed it's actual dimensions. Size your jpg image to the widest size you want the image to display on the webpage.
+
+
+<br><br>
+
+<span class="code">
+&lt;img src="picts/responsive-image.jpg" style="max-width: 100%; height: auto;" alt="Image Description"&gt;<br>
+</span>
+
+<br>
+
+<img src="picts/sample-responsive.jpg" style="max-width: 100%; height: auto;" alt="Image Description"> 
+
+<br><br><br>
+
+<span class="colortitle">Responsive image with a link and caption</span><br>
+The following code allows you to add any size image to a responsive website or template html page with a link, top and bottom margins and a centered caption. A max-width is included so the image will not exceed 650 pixels in width.<br>
+
+<br><br>
+
+<span class="red">Note:</span> This webpage is responsive. Narrow your browser width to see the image respond.
+
+<br><br><br>
+
+<span class="code">
+&lt;div style="text-align: center; font-size: 16px;"&gt;<br>
+&lt;a href="your-page-name.htm"&gt;&lt;img src="picts/responsive-image.jpg" style="width: 100%; max-width: 650px; height: auto; margin: 5px auto 5px auto; border: 0px;" alt="Image Description"&gt;&lt;/a&gt;&lt;br&gt;<br>
+Sample Responsive Image&lt;br&gt;<br>
+&lt;/div&gt;<br>
+</span>
+
+
+<br>
+
+
+<div style="text-align: center; font-size: 16px;">
+<a href="index.html"><img src="picts/sample-responsive.jpg" style="width: 100%; max-width: 650px; height: auto; margin: 5px auto 5px auto; border: 0px;" alt="Responsive Image"></a><br>
+Sample Responsive Image<br>
+</div>
+
+
+
+
+
+<br><br>
+
+<div class="page-splits color-split"></div>
+
+<br><br><br><br>
+
+
+<span class="smalltitle">Related Topics:</span><br>
+<a href="S_target_link.htm">New Window Target Links</a><br>
+<a href="S_add-links.htm">Adding Page Links</a><br>
+
+<br>
+
+
+
+
+
+
+<br><br>
+
+</div></div>
+<!-- C-L -->
+
+
+
+
+
+
+<!-- START SIDEBAR -->
+
+<div id="sidebar-content" class="SB-background"><div class="content-sidebar">
+
+<script type="text/javascript" src="javascripts/sidebar-support.js"></script>
+
+<br>
+
+<div class="sidebox sbw-2"><div class="sb-pad">
+
+<a href="S_pictures_change.htm">Editing Template Images</a><br>
+
+<div class="sideon">Adding an Image to a Page<br></div>
+
+<a href="S_textwrap.htm">Wrapping Text Around an Image</a><br>
+
+<a href="S_slideshow_new.htm">Mini Responsive Slideshow</a><br>
+
+<a href="S_add-links.htm">Adding Page Links</a><br>
+
+<div class="sidebox-split"></div>
+
+<a href="S_tables_HTML5-chart.htm">Build a Table Tutorial</a><br>
+
+<a href="S_sidebar_add.htm">Add a Sidebar Tutorial</a><br>
+
+<a href="S_add_div.htm">Css Locate DIV Tutorial</a><br>
+
+<a href="S_menus_dropdown.htm">Selector Menu Tutorial</a><br>
+
+<a href="S_script_favicon.htm">Favicon in the Address Bar</a><br>
+
+</div></div>
+
+<br>
+
+<!-- START GOOGLY ADS -->
+<div class="googleads gaw-2">
+
+<div class="ga">
+<a href="http://allwebcodesign.com/Business-Website-Development.htm" class="GOOGLElink">Small Business Website Setup</a>
+Building a professional website to promote and showcase your business.<br>
+</div>
+
+<div class="ga">
+<a href="scripts.html" class="GOOGLElink">Free Javascripts</a>
+Free scripts for any website or template.<br>
+</div>
+
+<div class="ga">
+<a href="http://allwebcodesign.com/setup/mobi-templates.htm" class="GOOGLElink">Mobile Web Templates</a>
+HTML5 / CSS website designs.<br>
+</div>
+
+<div class="ga">
+<a href="http://allwebcodesign.com/setup/icarts-T29.htm" class="GOOGLElink">Mega Menu Carts</a>
+Downloadable HTML website templates with built-in Paypal shopping cart.<br>
+</div>
+
+<div class="googleadsft">&nbsp;<br></div></div>
+<!-- END GOOGLY ADS -->
+
+
+
+<br>
+
+</div></div>
+<!-- S-B -->
+
+
+<!-- CLEAR FLOATS -->
+<div class="floatclear"></div>
+
+
+</div>
+<!-- C-O -->
+
+
+<div id="page-counter">
+<script type="text/javascript" src="http://allwebco-templates.com/cgi-bin/counter.pl/XXXaddimages.cnt"></script>
+</div>
+
+<script type="text/javascript" src="javascripts/footer-support.js"></script>
+
+</div>
+</body>
+</html>
+ Æ¿‘üB      \<ŸÃ\<ŸÅ?ðï\C"   7    :http://allwebco-templates.com/support/S_add-images.htm necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Sat, 12 Jan 2019 13:12:00 GMT
+Server: Apache
+Last-Modified: Fri, 03 Feb 2017 15:46:28 GMT
+ETag: "15f483df-2591-5894a5d4"
+Accept-Ranges: bytes
+Content-Length: 9617
+Content-Type: text/html
+ original-response-headers Date: Sat, 12 Jan 2019 13:12:00 GMT
+Server: Apache
+Last-Modified: Fri, 03 Feb 2017 15:46:28 GMT
+ETag: "15f483df-2591-5894a5d4"
+Accept-Ranges: bytes
+Content-Length: 9617
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+ uncompressed-len 0 predictor::resource-count 45 predictor::http://allwebco-templates.com/support/style-support.css 1,3,1547476931,28672 predictor::http://allwebco-templates.com/support/media-queries.css 1,3,1547476931,28672 predictor::http://allwebco-templates.com/support/javascripts/jquery-1.11.3.min.js 1,3,1547476931,28672 predictor::http://allwebco-templates.com/support/javascripts/javascripts.js 1,3,1547476931,28672 predictor::http://allwebco-templates.com/support/javascripts/header-support.js 1,3,1547476931,28672 predictor::http://allwebco-templates.com/support/javascripts/menu-support.js 1,3,1547476931,28672 predictor::https://fonts.googleapis.com/css?family=Droid+Sans:400,700 1,3,1547476931,28672 net-response-time-onstart 364 net-response-time-onstop 658 predictor::http://allwebco-templates.com/support/picts/sample-image.jpg 1,3,1547476931,28673 predictor::http://allwebco-templates.com/support/picts/sample-responsive.jpg 1,3,1547476931,28673 predictor::http://allwebco-templates.com/support/javascripts/sidebar-support.js 1,3,1547476931,28672 predictor::http://allwebco-templates.com/cgi-bin/counter.pl/XXXaddimages.cnt 1,3,1547476931,28673 predictor::http://allwebco-templates.com/support/javascripts/footer-support.js 1,3,1547476931,28672 predictor::http://www.google-analytics.com/analytics.js 1,3,1547476931,28672 predictor::http://allwebco-templates.com/counter/6.gif 1,3,1547476931,28673 predictor::http://allwebco-templates.com/counter/3.gif 1,2,1547473398,24576 predictor::http://www.google-analytics.com/r/collect?v=1&_v=j72&a=726918752&t=pageview&_s=1&dl=http%3A%2F%2Fallwebco-templates.com%2Fsupport%2FS_add-images.htm&ul=en-us&de=UTF-8&dt=Adding%20an%20image%20to%20the%20body%20of%20a%20page%20with%20a%20text%20editor&sd=24-bit&sr=1366x768&vp=1287x639&je=0&_u=AACAAEAB~&jid=789313845&gjid=840439524&cid=1158613457.1547295250&tid=UA-54787513-1&_gid=1339410603.1547295250&_r=1&z=1441688245 1,1,1547298689,16384 predictor::http://www.allwebco-templates.com/support/picts/logo.png 1,2,1547476931,12288 predictor::http://allwebco-templates.com/support/picts/header-developer-off.png 1,2,1547476931,12288 predictor::http://www.allwebco-templates.com/support/menu-icons/sbbutton-off.png 1,2,1547476931,12288 predictor::http://www.allwebco-templates.com/support/picts/logo-PRINT.jpg 1,2,1547476931,12288 predictor::http://www.allwebco-templates.com/support/menu-icons/menu-icon.png 1,2,1547476931,12288 predictor::http://www.allwebco-templates.com/support/menu-icons/icon-search.png 1,2,1547476931,12288 predictor::http://www.allwebco-templates.com/support/menu-icons/social-twitter.png 1,2,1547476931,12288 predictor::http://www.allwebco-templates.com/support/menu-icons/social-facebook.png 1,2,1547476931,12288 predictor::http://www.allwebco-templates.com/support/menu-icons/social-googleplus.png 1,2,1547476931,12288 predictor::http://www.allwebco-templates.com/support/menu-icons/icon-contact.png 1,2,1547476931,12288 predictor::http://www.allwebco-templates.com/support/menu-icons/icon-home.png 1,2,1547476931,12288 predictor::http://www.allwebco-templates.com/support/picts/sidebar-1.jpg 1,2,1547476931,12288 predictor::http://allwebco-templates.com/counter/1.gif 1,2,1547476931,12288 predictor::http://allwebco-templates.com/counter/4.gif 1,1,1547473398,8192 predictor::http://www.allwebco-templates.com/support/picts/allwebco88x31-footer.gif 1,2,1547476931,12288 predictor::http://www.allwebco-templates.com/support/picts/nospam-88x31-2.gif 1,2,1547476931,12288 predictor::http://allwebco-templates.com/support/picts/background.gif 1,2,1547476931,12288 predictor::http://allwebco-templates.com/support/picts/sidebar-seealso.gif 1,2,1547476931,12288 predictor::http://allwebco-templates.com/support/picts/sidebar-pad-bg.gif 1,2,1547476931,12288 predictor::http://allwebco-templates.com/support/picts/sidebar-marker.gif 1,2,1547476931,12288 predictor::http://allwebco-templates.com/support/picts/sidebar-more-1.gif 1,2,1547476931,12288 predictor::http://allwebco-templates.com/support/picts/sidebar-more-2.gif 1,2,1547476931,12288 predictor::http://allwebco-templates.com/support/picts/footer-background.png 1,2,1547476931,12288 predictor::https://fonts.gstatic.com/s/droidsans/v8/SlGWmQWMvZQIdix7AFxXmMh3eDs1Zw.woff2 1,2,1547476931,12288 predictor::https://fonts.gstatic.com/s/droidsans/v8/SlGVmQWMvZQIdix7AFxXkHNSbQ.woff2 1,2,1547476931,12288 predictor::http://www.google-analytics.com/collect?v=1&_v=j72&a=32777414&t=pageview&_s=1&dl=http%3A%2F%2Fallwebco-templates.com%2Fsupport%2FS_add-images.htm&ul=en-us&de=UTF-8&dt=Adding%20an%20image%20to%20the%20body%20of%20a%20page%20with%20a%20text%20editor&sd=24-bit&sr=1366x768&vp=1287x639&je=0&_u=AACAAEAB~&jid=&gjid=&cid=1158613457.1547295250&tid=UA-54787513-1&_gid=1873474363.1547473397&z=1063184443 1,1,1547473398,8192 predictor::http://allwebco-templates.com/counter/2.gif 1,1,1547476931,4096 predictor::http://allwebco-templates.com/counter/5.gif 1,1,1547476931,4097 predictor::http://www.google-analytics.com/r/collect?v=1&_v=j72&a=429117599&t=pageview&_s=1&dl=http%3A%2F%2Fallwebco-templates.com%2Fsupport%2FS_add-images.htm&ul=en-us&de=UTF-8&dt=Adding%20an%20image%20to%20the%20body%20of%20a%20page%20with%20a%20text%20editor&sd=24-bit&sr=1366x768&vp=1287x639&je=0&_u=AACAAEAB~&jid=150117950&gjid=1026556333&cid=1158613457.1547295250&tid=UA-54787513-1&_gid=1873474363.1547473397&_r=1&z=782324067 1,1,1547476931,4096   %‘

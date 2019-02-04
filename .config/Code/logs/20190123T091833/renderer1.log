@@ -1,0 +1,2 @@
+[2019-01-23 09:18:43.995] [renderer1] [info] no standard startup: not the explorer viewlet
+[2019-01-23 09:18:44.487] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: {1}

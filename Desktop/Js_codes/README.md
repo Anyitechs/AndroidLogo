@@ -1,0 +1,1 @@
+Hello people! this is just a little JS projects, and there's nothing more to the project.

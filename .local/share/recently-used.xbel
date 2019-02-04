@@ -13,22 +13,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-08%2012-57-47.png" added="2019-01-08T11:57:47Z" modified="2019-01-11T12:51:09Z" visited="2019-01-08T11:57:48Z">
-    <info>
-      <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="image/png"/>
-        <bookmark:groups>
-          <bookmark:group>Graphics</bookmark:group>
-        </bookmark:groups>
-        <bookmark:applications>
-          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-01-08T11:57:47Z" count="1"/>
-          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-01-08T12:02:50Z" count="1"/>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-11T12:51:09Z" count="3"/>
-        </bookmark:applications>
-      </metadata>
-    </info>
-  </bookmark>
-  <bookmark href="file:///home/ifeanyi/Desktop/AndroidLogo%20Project/Html/Androidlogo.html" added="2019-01-11T11:49:18Z" modified="2019-01-12T07:14:24Z" visited="2019-01-11T11:49:18Z">
+  <bookmark href="file:///home/ifeanyi/Desktop/Androidlogo_project/Html/Androidlogo.html" added="2019-01-11T11:49:18Z" modified="2019-02-04T08:20:39Z" visited="2019-01-11T11:49:18Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/html"/>
@@ -38,7 +23,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2013-34-23.png" added="2019-01-11T12:34:23Z" modified="2019-01-11T12:51:11Z" visited="2019-01-11T12:34:24Z">
+  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2013-34-23.png" added="2019-01-11T12:34:23Z" modified="2019-01-22T18:13:06Z" visited="2019-01-11T12:34:24Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -47,12 +32,12 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-01-11T12:34:23Z" count="1"/>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-11T12:51:11Z" count="6"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-22T18:13:06Z" count="8"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2013-34-46.png" added="2019-01-11T12:34:46Z" modified="2019-01-11T12:51:14Z" visited="2019-01-11T12:34:46Z">
+  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2013-34-46.png" added="2019-01-11T12:34:46Z" modified="2019-01-22T18:13:39Z" visited="2019-01-11T12:34:46Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -61,12 +46,12 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-01-11T12:34:46Z" count="1"/>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-11T12:51:14Z" count="7"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-22T18:13:39Z" count="9"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2013-35-06.png" added="2019-01-11T12:35:07Z" modified="2019-01-11T12:51:20Z" visited="2019-01-11T12:35:07Z">
+  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2013-35-06.png" added="2019-01-11T12:35:07Z" modified="2019-01-22T18:13:40Z" visited="2019-01-11T12:35:07Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -75,12 +60,12 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-01-11T12:35:07Z" count="1"/>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-11T12:51:20Z" count="6"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-22T18:13:40Z" count="8"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2013-35-20.png" added="2019-01-11T12:35:21Z" modified="2019-01-11T13:14:54Z" visited="2019-01-11T12:35:21Z">
+  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2013-35-20.png" added="2019-01-11T12:35:21Z" modified="2019-01-22T18:12:31Z" visited="2019-01-11T12:35:21Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -89,12 +74,12 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-01-11T12:35:21Z" count="1"/>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-11T13:14:54Z" count="5"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-22T18:12:31Z" count="6"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2013-35-33.png" added="2019-01-11T12:35:33Z" modified="2019-01-11T13:14:59Z" visited="2019-01-11T12:35:33Z">
+  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2013-35-33.png" added="2019-01-11T12:35:33Z" modified="2019-01-22T18:12:33Z" visited="2019-01-11T12:35:33Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -103,12 +88,12 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-01-11T12:35:33Z" count="1"/>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-11T13:14:59Z" count="5"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-22T18:12:33Z" count="6"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/ifeanyi/Desktop/AndroidLogo%20Project/CSS/style.css" added="2019-01-11T12:43:57Z" modified="2019-01-12T07:18:31Z" visited="2019-01-11T12:43:57Z">
+  <bookmark href="file:///home/ifeanyi/Desktop/Androidlogo_project/CSS/style.css" added="2019-01-11T12:43:57Z" modified="2019-02-04T08:20:39Z" visited="2019-01-11T12:43:57Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/css"/>
@@ -119,7 +104,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2014-12-31.png" added="2019-01-11T13:12:31Z" modified="2019-01-11T13:15:01Z" visited="2019-01-11T13:12:32Z">
+  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2014-12-31.png" added="2019-01-11T13:12:31Z" modified="2019-01-22T18:12:36Z" visited="2019-01-11T13:12:32Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -128,12 +113,12 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-01-11T13:12:31Z" count="1"/>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-11T13:15:01Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-22T18:12:36Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2014-12-45.png" added="2019-01-11T13:12:45Z" modified="2019-01-11T13:18:11Z" visited="2019-01-11T13:12:46Z">
+  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2014-12-45.png" added="2019-01-11T13:12:45Z" modified="2019-01-22T18:12:44Z" visited="2019-01-11T13:12:46Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -142,12 +127,12 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-01-11T13:12:45Z" count="1"/>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-11T13:18:11Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-22T18:12:44Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2014-12-54.png" added="2019-01-11T13:12:54Z" modified="2019-01-11T13:24:51Z" visited="2019-01-11T13:12:54Z">
+  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2014-12-54.png" added="2019-01-11T13:12:54Z" modified="2019-01-22T18:12:49Z" visited="2019-01-11T13:12:54Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -156,12 +141,12 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-01-11T13:12:54Z" count="1"/>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-11T13:24:51Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-22T18:12:49Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2014-13-03.png" added="2019-01-11T13:13:03Z" modified="2019-01-11T13:29:59Z" visited="2019-01-11T13:13:04Z">
+  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2014-13-03.png" added="2019-01-11T13:13:03Z" modified="2019-01-22T18:12:50Z" visited="2019-01-11T13:13:04Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -170,12 +155,12 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-01-11T13:13:03Z" count="1"/>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-11T13:29:59Z" count="3"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-22T18:12:50Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2014-13-11.png" added="2019-01-11T13:13:11Z" modified="2019-01-11T13:36:32Z" visited="2019-01-11T13:13:12Z">
+  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2014-13-11.png" added="2019-01-11T13:13:11Z" modified="2019-01-22T18:12:53Z" visited="2019-01-11T13:13:12Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -184,12 +169,12 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-01-11T13:13:11Z" count="1"/>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-11T13:36:32Z" count="3"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-22T18:12:53Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2014-13-40.png" added="2019-01-11T13:13:40Z" modified="2019-01-11T13:36:37Z" visited="2019-01-11T13:13:40Z">
+  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2014-13-40.png" added="2019-01-11T13:13:40Z" modified="2019-01-22T18:12:55Z" visited="2019-01-11T13:13:40Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -198,17 +183,259 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-01-11T13:13:40Z" count="1"/>
-          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-11T13:36:37Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-22T18:12:55Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2014-13-58.png" added="2019-01-11T13:13:58Z" modified="2019-01-11T13:13:58Z" visited="2019-01-11T13:13:58Z">
+  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-11%2014-13-58.png" added="2019-01-11T13:13:58Z" modified="2019-01-22T18:12:56Z" visited="2019-01-11T13:13:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-01-11T13:13:58Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-22T18:12:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ifeanyi/Downloads/Google.png" added="2019-01-12T13:12:24Z" modified="2019-01-12T13:14:59Z" visited="2019-01-12T13:12:24Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-01-12T13:12:24Z" count="2"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-12T13:14:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ifeanyi/Downloads/icons8-google-480.png" added="2019-01-12T13:14:21Z" modified="2019-01-12T13:14:56Z" visited="2019-01-12T13:14:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-01-12T13:14:21Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-12T13:14:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ifeanyi/odin_projects/google-homepage/Index.html" added="2019-01-12T13:55:16Z" modified="2019-01-16T12:49:31Z" visited="2019-01-12T13:55:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-01-16T12:49:31Z" count="26"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ifeanyi/odin_projects/google-homepage/style.css" added="2019-01-12T13:56:59Z" modified="2019-01-16T12:16:32Z" visited="2019-01-12T13:56:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-01-16T12:16:32Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ifeanyi/odin_projects/google-homepage/README.md" added="2019-01-12T13:59:25Z" modified="2019-01-16T12:34:12Z" visited="2019-01-12T13:59:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-01-16T12:34:12Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ifeanyi/odin_projects/google-homepage/Images/icons8-google-480.png" added="2019-01-12T15:24:33Z" modified="2019-01-12T15:24:33Z" visited="2019-01-12T15:24:33Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
         <bookmark:applications>
-          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-01-11T13:13:58Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-01-12T15:24:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ifeanyi/Downloads/favicon.ico" added="2019-01-12T15:25:35Z" modified="2019-01-12T15:25:35Z" visited="2019-01-12T15:25:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/vnd.microsoft.icon"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-01-12T15:25:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ifeanyi/Downloads/apps.png" added="2019-01-12T16:17:25Z" modified="2019-01-12T16:17:25Z" visited="2019-01-12T16:17:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-01-12T16:17:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ifeanyi/Downloads/notifications.png" added="2019-01-12T16:17:32Z" modified="2019-01-12T16:17:33Z" visited="2019-01-12T16:17:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-01-12T16:17:33Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ifeanyi/odin_projects/google-homepage" added="2019-01-14T14:50:34Z" modified="2019-01-14T14:50:34Z" visited="2019-01-14T14:50:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/code/code --unity-launch %F&apos;" modified="2019-01-14T14:50:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-16%2012-48-57.png" added="2019-01-16T11:48:58Z" modified="2019-01-22T18:12:59Z" visited="2019-01-16T11:48:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-01-16T11:48:58Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-22T18:12:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-16%2012-49-04.png" added="2019-01-16T11:49:04Z" modified="2019-01-22T18:12:59Z" visited="2019-01-16T11:49:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-01-16T11:49:04Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-22T18:12:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-16%2013-07-54.png" added="2019-01-16T12:07:54Z" modified="2019-01-22T18:13:01Z" visited="2019-01-16T12:07:54Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-01-16T12:07:54Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-22T18:13:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ifeanyi/odin_projects/google-homepage/index.html" added="2019-01-16T14:50:56Z" modified="2019-01-16T14:50:56Z" visited="2019-01-16T14:50:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-01-16T14:50:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ifeanyi/Downloads/Contributing%20to%20Open%20Source%20Part%20II-%20The%20Real%20Way.mp4" added="2019-01-16T15:15:35Z" modified="2019-01-16T15:15:35Z" visited="2019-01-16T15:15:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2019-01-16T15:15:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-16%2016-17-08.png" added="2019-01-16T15:17:08Z" modified="2019-01-22T18:13:02Z" visited="2019-01-16T15:17:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2019-01-16T15:17:08Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2019-01-22T18:13:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ifeanyi/Desktop/Js_codes/index.html" added="2019-01-17T11:37:58Z" modified="2019-02-04T08:20:20Z" visited="2019-01-17T11:37:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-01-27T18:53:26Z" count="59"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ifeanyi/Desktop/Js_codes/style.css" added="2019-01-27T18:03:14Z" modified="2019-02-04T08:30:01Z" visited="2019-01-27T18:03:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-02-04T08:30:01Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ifeanyi/Pictures/new_shot.png" added="2019-02-04T08:22:48Z" modified="2019-02-04T08:22:48Z" visited="2019-02-04T08:22:49Z">
+    <title>new_shot.png</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog file:///home/ifeanyi/Pictures/Screenshot%20from%202019-01-08%2012-57-47.png&apos;" modified="2019-02-04T08:22:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ifeanyi/Desktop/Js_codes" added="2019-02-04T08:26:25Z" modified="2019-02-04T08:26:25Z" visited="2019-02-04T08:26:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-02-04T08:26:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ifeanyi/Desktop/Js_codes/README.md" added="2019-02-04T08:30:10Z" modified="2019-02-04T08:30:10Z" visited="2019-02-04T08:30:10.606294Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-02-04T08:30:10Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

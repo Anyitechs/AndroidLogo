@@ -214,3 +214,39 @@ git push -u origin master
 git -b checkout
 git remote remove git@github.com:Anyitechs/Android.git
 exit
+git init
+git add .
+git commit -m "First commit"
+git clone git@github.com:Anyitechs/Android.git
+git remote add origin git@github.com:Anyitechs/Android.git
+git push -u origin master
+ls
+cd odin_projects
+cd google-homepage
+git push origin master
+exit
+ls
+cd Desktop
+ls
+Js codes
+cd Js codes
+cd 'Js codes'
+cd js codes
+cd AndroidLogo Project
+exit
+ls
+cd desktop
+cd Desktop
+ls
+cd Js_codes
+git add index.html
+git add style.css
+git add new_shot.png
+git commit -m "First commit"
+git push -u origin master
+exit
+ls
+cd Desktop
+cd Js_codes
+git add README.md
+exit

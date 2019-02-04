@@ -5,23 +5,25 @@
     "windowsState": {
         "openedWindows": [],
         "lastActiveWindow": {
-            "backupPath": "/home/ifeanyi/.config/Code/Backups/1547206894423",
+            "backupPath": "/home/ifeanyi/.config/Code/Backups/1547725000958",
             "uiState": {
                 "mode": 1,
-                "x": 213,
+                "x": 301,
                 "y": 27,
-                "width": 1024,
+                "width": 985,
                 "height": 741
             }
         }
     },
     "openedPathsList": {
         "workspaces2": [
+            "file:///home/ifeanyi/Desktop/Js_codes",
+            "file:///home/ifeanyi/odin_projects/google-homepage",
             "file:///home/ifeanyi/odin_on_rails/my_first_rails_app"
         ],
         "files2": [
             "file:///home/ifeanyi/Desktop/AndroidLogo%20Project/Html/Androidlogo.html"
         ]
     },
-    "pickerWorkingDir": "/home/ifeanyi/Desktop/AndroidLogo Project/Html"
+    "pickerWorkingDir": "/home/ifeanyi/Desktop"
 }

@@ -1,0 +1,41 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/ifeanyi
+> git status -z -u
+> git check-ignore -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Desktop/Js_codes/index.html
+> git show :Desktop/Js_codes/style.css
+> git show :Desktop/Js_codes/index.html
+> git show :Desktop/Js_codes/README.md
+> git ls-files --stage -- Desktop/Js_codes/
+> git check-ignore -z --stdin
+> git show :Desktop/Js_codes/index.html
+> git show :Desktop/Js_codes/style.css
+> git show :Desktop/Js_codes/README.md
+> git check-ignore -z --stdin
+> git add -A -- .
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+warning: adding embedded git repository: odin_projects/google-homepage
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint: 
+hint: 	git submodule add <url> odin_projects/google-homepage
+hint: 
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint: 
+hint: 	git rm --cached odin_projects/google-homepage
+hint: 
+hint: See "git help submodule" for more information.
