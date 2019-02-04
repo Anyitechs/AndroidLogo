@@ -1,0 +1,9 @@
+.nav {
+    background-color: darksalmon;
+    position: absolute;
+    text-align: right;
+}
+.main {
+    position: center;
+    box-align: initial;
+}
